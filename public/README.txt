@@ -1,0 +1,1 @@
+Vous pouvez ajouter votre photo ici sous le nom profile.jpg. Le design actuel fonctionne sans photo et utilise une identité visuelle réseau/cybersécurité.
